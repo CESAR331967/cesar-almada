@@ -1,2 +1,2 @@
 # cesar-almada
-codigos y elemntos de programacion
+codigos y elementos de programacion
